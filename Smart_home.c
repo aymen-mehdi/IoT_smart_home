@@ -1,7 +1,7 @@
-// Written by MEHDI Aymen & SAHEL Nazim
+// Written by MEHDI Aymen
 // It is very important to download all the libraries used in this code so it compile's properlly
 // adafruit/DHT sensor library@^1.4.3
-//	khoih-prog/Blynk_WiFiManager@^1.0.16
+// khoih-prog/Blynk_WiFiManager@^1.0.16
 
 #include <Arduino.h>
 
